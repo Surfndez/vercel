@@ -24,7 +24,7 @@
     "typescript": "3.9.3"
   },
   "devDependencies": {
-    "@babel/core": "7.5.0",
+    "@babel/core": "7.29.6",
     "@babel/plugin-transform-modules-commonjs": "7.5.0",
     "@tootallnate/once": "1.1.2",
     "@types/aws-lambda": "8.10.19",
